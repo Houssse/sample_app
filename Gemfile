@@ -83,3 +83,5 @@ gem "rake", "~> 13.0"
 
 gem "rexml", "~> 3.2"
 gem "bootstrap-sass", "~> 3.4"
+
+gem "rails-controller-testing", "~> 1.0"
