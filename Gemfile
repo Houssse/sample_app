@@ -85,3 +85,5 @@ gem "rexml", "~> 3.2"
 gem "bootstrap-sass", "~> 3.4"
 
 gem "rails-controller-testing", "~> 1.0"
+
+gem "bcrypt", "~> 3.1"
