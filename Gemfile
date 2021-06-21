@@ -87,3 +87,9 @@ gem "bootstrap-sass", "~> 3.4"
 gem "rails-controller-testing", "~> 1.0"
 
 gem "bcrypt", "~> 3.1"
+
+gem "faker", "~> 2.18"
+
+gem "will_paginate", "~> 3.3"
+
+gem "bootstrap-will_paginate", "~> 1.0"
