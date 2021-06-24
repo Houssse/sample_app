@@ -93,3 +93,9 @@ gem "faker", "~> 2.18"
 gem "will_paginate", "~> 3.3"
 
 gem "bootstrap-will_paginate", "~> 1.0"
+
+gem "carrierwave", "~> 2.2"
+
+gem "mini_magick", "~> 4.11"
+
+gem "fog", "~> 2.2"
