@@ -1,1 +1,1 @@
-# Ruby on Rails Tutorial: sample application
+Мой первый учебный проект сделанный по книге "Ruby on Rails Tutorial. Learn Web Development with. Rails - Michael Hartl" Его работоспособность можно оценить на Heroku https://tranquil-journey-92348.herokuapp.com/
