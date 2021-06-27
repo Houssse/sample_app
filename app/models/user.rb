@@ -53,9 +53,6 @@ class User < ApplicationRecord
   end
 
   # Отправляет электронное письмо для активации.
-  def send_activation_email
-    UserMailer.account_activation(self).deliver_now
-  end
 
   # Устанавливает атрибуты для сброса пароля.
   def create_reset_digest
@@ -65,9 +62,7 @@ class User < ApplicationRecord
   end
 
   # Отправляет электронное письмо для сброса пароля.
-  def send_password_reset_email
-    UserMailer.password_reset(self).deliver_now
-  end
+
 
   # Возвращает true, если истек срок годности сброса пароля.
   def password_reset_expired?
